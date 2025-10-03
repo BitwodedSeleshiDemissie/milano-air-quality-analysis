@@ -1,4 +1,6 @@
 # Milano Air Quality Analysis
+![Daily Average Pollutants](figures/daily_average.png)  
+![Monthly Average Pollutants](figures/monthly_average.png)  
 
 ## 📊 Project Overview
 This project analyzes **air quality data from Milano** using open datasets from Regione Lombardia.  
